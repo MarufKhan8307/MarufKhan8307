@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MarufKhan8307
 - 👀 I’m interested in ...Windows insider
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ... Andrew
 - 📫 How to reach me ...Subscribe to my channel
 
 +++++++_Play on intel pentium Dual proccesor{Wrost}
